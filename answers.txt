@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a highly capable version control system that ensures effective management of code by tracking changes over time so that developers can revisit previous versions whenever necessary. It enables easy collaboration by allowing several contributors to work on a project simultaneously while adhering to a disciplined workflow through branching and merging so that new functionality or fixes may be developed in isolation prior to integration. Additionally, Git has a safe backup mechanism so that work is never lost, and since it is distributed, it allows developers to work offline with a full copy of the repository. With built-in code integrity features using cryptographic hashing and widespread adoption in the industry, Git is an essential tool for software development today.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science is applicable to wildlife conservation for tracking and protection of endangered wildlife. With the application of machine learning, computer vision, and large data, researchers can process voluminous data that is captured with camera traps, drones, and environmental sensors. For example, AI algorithms are capable of sorting species automatically, tracking migration of animals, and detecting unusual activity that will trigger environmental stress or poaching. Additionally, predictive analytics can also aid conservationists to forecast habitat shifts due to climate shifts and urban development, making proactive measures taken in a bid to maintain biodiversity. It makes optimal decisions, ensures maximum resource utilization, and finally results in long-term survival of threatened species.
+
